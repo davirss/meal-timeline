@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FomeSaciedade</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="scale_starving">Faminto</string>
+    <string name="scale_very_hungry">Muita fome</string>
+    <string name="scale_hungry">Fome</string>
+    <string name="scale_satiated">Saciado</string>
+    <string name="scale_slightly_full">Levemente cheio</string>
+    <string name="scale_full">Cheio</string>
+    <string name="scale_stuffed">Estufado</string>
+</resources>
