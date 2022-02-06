@@ -1,10 +1,10 @@
-package com.drss.nutricao.features.home.ui.viewmodel
+package com.drss.mealtimeline.features.home.ui.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.drss.nutricao.model.Meal
-import com.drss.nutricao.model.Scale
+import com.drss.mealtimeline.model.Meal
+import com.drss.mealtimeline.model.Scale
 import java.time.Duration
 import java.time.LocalDateTime
 import java.time.format.TextStyle

@@ -1,4 +1,4 @@
-package com.drss.nutricao.features.home.ui.composables
+package com.drss.mealtimeline.features.home.ui.composables
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -8,20 +8,15 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.ImageBitmap
 import androidx.compose.ui.graphics.painter.Painter
-import androidx.compose.ui.res.imageResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.drss.nutricao.R
-import com.drss.nutricao.features.home.ui.theme.CustomShape
-import com.drss.nutricao.features.home.ui.theme.FomeSaciedadeTheme
-import com.drss.nutricao.model.Meal
-import com.drss.nutricao.model.Scale
-import java.time.Instant
+import com.drss.mealtimeline.R
+import com.drss.mealtimeline.features.home.ui.theme.FomeSaciedadeTheme
+import com.drss.mealtimeline.model.Meal
+import com.drss.mealtimeline.model.Scale
 import java.time.LocalDateTime
 
 @Composable

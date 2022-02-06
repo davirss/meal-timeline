@@ -1,4 +1,4 @@
-package com.drss.nutricao.features.home.ui
+package com.drss.mealtimeline.features.home.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -20,13 +20,13 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.drss.nutricao.R
-import com.drss.nutricao.features.home.ui.composables.MealComposable
-import com.drss.nutricao.features.home.ui.composables.NewMeal
-import com.drss.nutricao.features.home.ui.theme.FomeSaciedadeTheme
-import com.drss.nutricao.features.home.ui.viewmodel.MainScreenState
-import com.drss.nutricao.features.home.ui.viewmodel.MainViewModel
-import com.drss.nutricao.model.Meal
+import com.drss.mealtimeline.R
+import com.drss.mealtimeline.features.home.ui.composables.MealComposable
+import com.drss.mealtimeline.features.home.ui.composables.NewMeal
+import com.drss.mealtimeline.features.home.ui.theme.FomeSaciedadeTheme
+import com.drss.mealtimeline.features.home.ui.viewmodel.MainScreenState
+import com.drss.mealtimeline.features.home.ui.viewmodel.MainViewModel
+import com.drss.mealtimeline.model.Meal
 
 @ExperimentalFoundationApi
 class MainActivity : ComponentActivity() {

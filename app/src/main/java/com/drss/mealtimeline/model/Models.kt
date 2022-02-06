@@ -1,7 +1,6 @@
-package com.drss.nutricao.model
+package com.drss.mealtimeline.model
 
 import android.net.Uri
-import java.time.Instant
 import java.time.LocalDateTime
 
 enum class Scale {

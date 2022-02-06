@@ -1,4 +1,4 @@
-package com.drss.nutricao
+package com.drss.mealtimeline
 
 import org.junit.Test
 
